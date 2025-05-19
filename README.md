@@ -77,7 +77,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=themikadilushanka&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=themikadilushanka-dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -89,7 +89,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="themika" width="400" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka-dev&show_icons=true&locale=en&theme=chartreuse-dark" alt="themika" width="400" /></p>
 </td>
 
 <!--- <td width="50%" align="center">
